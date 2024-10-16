@@ -1,0 +1,10 @@
+db.sqlite3
+asgi.py
+wsgi.py
+tests.py
+apps.py
+__init__.py
+templatetags
+migrations
+__pycache__
+manage.py
